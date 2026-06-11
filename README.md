@@ -25,12 +25,6 @@ La aplicación se **actualiza sola**: te avisa cuando hay una versión nueva.
 - Consola **UDS** experta (ISO 14229), **monitor CAN** e informes de salud en PDF.
 - Multimarca: +27 fabricantes, incluidos eléctricos modernos.
 
-## 🔒 Código fuente
-
-El código fuente de la aplicación es **privado**. Este repositorio se utiliza
-únicamente para distribuir las versiones (instaladores) y las actualizaciones
-automáticas.
-
 ## 📄 Contacto
 
 © Rannden · NextCode Agency — soporte y licencias: **a.gisbert@nextcodeagency.com**
