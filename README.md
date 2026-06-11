@@ -68,14 +68,6 @@ Volkswagen · Volvo · *(y genérico OBD-II)*.
 
 ---
 
-## 🔒 Código fuente
-
-El **código fuente de la aplicación es privado**. Este repositorio se utiliza
-únicamente para distribuir las versiones (instaladores) y las actualizaciones
-automáticas.
-
----
-
 ## 📄 Licencia y contacto
 
 Software propietario. © 2026 **Rannden** · NextCode Agency. Todos los derechos
